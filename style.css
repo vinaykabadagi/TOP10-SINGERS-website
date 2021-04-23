@@ -1,0 +1,83 @@
+header{
+    background-color: ghostwhite;
+    padding: 1%;
+    margin: 1%;
+    border-radius: 25px;
+}
+body{
+    margin: 1%;
+    padding: 2%;
+    background: rgb(247, 247, 176);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+div{
+    background-color: ghostwhite;
+    padding: 1%;
+    margin: 1%;
+    padding-top: 0%;
+    font-size: 1.2rem;
+    border-radius: 25px;
+    
+    
+} 
+h1{
+    text-align: center;
+    color: rgb(1, 19, 7);
+}
+h2{
+    text-align: center;
+    color: rgb(42, 35, 88);
+}
+a{
+    color: rgb(71, 65, 65);
+    margin: 1%;
+    padding: 0.5%;
+    background-color:rgb(196, 241, 150);
+    border-radius: 25px;
+    text-decoration: none;
+}
+a:hover{
+    color: blue;
+}
+summary{
+    background-color: rgb(196, 241, 150);
+    padding: 1%;
+    margin: 01%;
+}
+
+.left{
+    display: inline-block;
+    width: 20%;
+    margin: 1%;
+    padding: 1%;
+    background-color: rgb(190, 183, 183);
+
+}
+.left img{
+    width: 100%;
+    max-height: 300px;
+    
+}
+.right{
+    display: inline-block;
+    max-width: 70%;
+    margin: 1%;
+    padding: 1%;
+
+    background-color: rgb(190, 183, 183);
+}
+
+.main{
+    padding:2%;
+    background-color: lavender;
+    border-radius: 25px;
+    margin: 1%;
+}
+
+.center{
+    padding: 1%;
+   color: rgb(71, 65, 65);
+    background-color: thistle;
+    border: transparent;
+}
